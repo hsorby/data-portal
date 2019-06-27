@@ -8,3 +8,7 @@ venv/
 *.pyc
 __pycache__/
 .idea
+
+home/vue_app/package-lock.json
+shared/vue_app/package-lock.json
+
